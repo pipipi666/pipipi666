@@ -25,8 +25,6 @@
 
 ### :bar_chart: My Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pipipi666&theme=tokyonight&border_radius=20)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pipipi666&layout=compact&theme=nightowl&border_radius=20)](https://git.io/streak-stats)
 
 <!--
