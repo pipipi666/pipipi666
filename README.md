@@ -23,10 +23,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-### :bar_chart: My Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pipipi666&layout=compact&theme=nightowl&border_radius=20)](https://git.io/streak-stats)
-
 <!--
 **pipipi666/pipipi666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
